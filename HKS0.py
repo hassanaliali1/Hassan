@@ -1,0 +1,2 @@
+import HKS
+HKS.Main()
